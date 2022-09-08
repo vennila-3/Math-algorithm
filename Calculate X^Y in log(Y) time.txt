@@ -18,4 +18,6 @@ return res;
 int main(){
  ll base, power; 
 cin >> base >> power; 
-cout << getPower(base , power) << endl; return 0;}
+cout << getPower(base , power) << endl;
+return 0;
+}
